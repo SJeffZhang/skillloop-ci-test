@@ -1,0 +1,24 @@
+{
+  "scope": "registered_synthetic_family_ci",
+  "profiles": [
+    {
+      "profile": "orders_total",
+      "skill_path": "skills/orders-total/SKILL.md",
+      "bytes_digest": "sha256:f8ce5daf53aea7bd09648b1dd11654439088d8fbbd5529d875b2353b4e3a50d7",
+      "source": "registered_public_synthetic_example"
+    },
+    {
+      "profile": "refunds_total",
+      "skill_path": "skills/refunds-total/SKILL.md",
+      "bytes_digest": "sha256:0a7c90d08c4e895dbdfdc5feaf60d6c95aadca83e665dcda30578ee66c057f7d",
+      "source": "registered_public_synthetic_example"
+    },
+    {
+      "profile": "markdown_index",
+      "skill_path": "skills/markdown-index/SKILL.md",
+      "bytes_digest": "sha256:658d280364a6aef6f094f84ddbaa38176ec0caa4f0722864b0ea070064328b76",
+      "source": "registered_public_synthetic_example"
+    }
+  ],
+  "private_inputs_in_repository": false
+}
